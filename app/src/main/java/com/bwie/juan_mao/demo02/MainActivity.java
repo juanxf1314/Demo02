@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         // 这是秒杀倒计时
 
         // 这是商品推荐  这是我同桌大哥修改的代码
+
+        // 这是我写的一个bug
     }
 }
